@@ -1,5 +1,3 @@
-using System.Linq;
-
 public static class Problem2
 {
     // Even Fibonacci Numbers

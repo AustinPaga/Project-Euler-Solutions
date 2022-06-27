@@ -1,5 +1,4 @@
-﻿
-public static class Problem1
+﻿public static class Problem1
 {
     // Multiples of 3 or 5
 

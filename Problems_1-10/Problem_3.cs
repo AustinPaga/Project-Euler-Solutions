@@ -1,4 +1,3 @@
-using System;
 public static class Problem3
 {
     // Largest Prime Factors
