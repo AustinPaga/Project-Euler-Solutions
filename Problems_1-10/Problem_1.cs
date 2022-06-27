@@ -1,4 +1,5 @@
-﻿public class Problem1
+﻿
+public static class Problem1
 {
     // Multiples of 3 or 5
 
@@ -6,9 +7,7 @@
     // The sum of these multiples is 23.
     // Find the sum of all the multiples of 3 or 5 below 1000.
 
-    private static void Main(string[] args) => Console.WriteLine(SumMultiplesof3and5(1000));
-
-    private static long SumMultiplesof3and5(int below)
+    public static long SumMultiplesof3and5(int below)
     {
         int sum = 0;
 
