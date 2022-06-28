@@ -20,6 +20,7 @@ public class Run_Solutions
             case 3: Console.WriteLine(Problem3.LargestPrimeFactor(600851475143)); break;
             case 4: Console.WriteLine(Problem4.LargestPalendromeProduct(99, 999)); break;
             case 5: Console.WriteLine(Problem5.SmallestMultiple(20)); break;
+            case 6: Console.WriteLine(Problem6.SumSquareDifference(100)); break;
             default: break;
         }
     }
