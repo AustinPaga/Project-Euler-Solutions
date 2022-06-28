@@ -24,6 +24,7 @@ public class Run_Solutions
             case 7: Console.WriteLine(Problem7._PlacePrime(10001)); break;
             case 8: Console.WriteLine(Problem8.LargestSeriesProduct(13)); break;
             case 9: Console.WriteLine(Problem9.PythagoreanTriplet(1000)); break;
+            case 10: Console.WriteLine(Problem10.PrimeSum(2000000)); break;
             default: break;
         }
     }
