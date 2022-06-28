@@ -23,6 +23,7 @@ public class Run_Solutions
             case 6: Console.WriteLine(Problem6.SumSquareDifference(100)); break;
             case 7: Console.WriteLine(Problem7._PlacePrime(10001)); break;
             case 8: Console.WriteLine(Problem8.LargestSeriesProduct(13)); break;
+            case 9: Console.WriteLine(Problem9.PythagoreanTriplet(1000)); break;
             default: break;
         }
     }
