@@ -1,5 +1,3 @@
-using System.Numerics; // use for BigInterger struct to handle the default 1000-digit number
-
 public static class Problem8
 {
     // Largest Product in a Series
