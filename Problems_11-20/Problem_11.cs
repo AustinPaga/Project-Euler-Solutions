@@ -11,8 +11,7 @@
 
     public static int LargestGridProduct(int rows, int columns, int numAdjacent, string? grid = null)
     {
-        if (grid == null)
-            grid = defaultGrid;
+        grid = grid == null ? defaultGrid : grid;
 
         List<int> products = new List<int>(), numList = grid.Split(' ').Select(int.Parse).ToList(), columns1 = new List<int>(), columns2 = new List<int>();
         

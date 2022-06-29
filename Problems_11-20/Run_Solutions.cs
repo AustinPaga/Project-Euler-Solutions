@@ -16,8 +16,8 @@ public class Run_Solutions
         switch (problemNum)
         {
             case 11: Console.WriteLine(Problem11.LargestGridProduct(20, 20, 4)); break;
-            //case 2: Console.WriteLine(Problem2.SumEvenFib(4000000)); break;
-            //case 3: Console.WriteLine(Problem3.LargestPrimeFactor(600851475143)); break;
+            case 12: Console.WriteLine(Problem12.HighlyDivTriNum(500)); break;
+            case 13: Console.WriteLine(Problem13.LargeSum(10)); break;
             //case 4: Console.WriteLine(Problem4.LargestPalendromeProduct(99, 999)); break;
             //case 5: Console.WriteLine(Problem5.SmallestMultiple(20)); break;
             //case 6: Console.WriteLine(Problem6.SumSquareDifference(100)); break;
