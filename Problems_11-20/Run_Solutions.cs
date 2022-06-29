@@ -18,7 +18,7 @@ public class Run_Solutions
             case 11: Console.WriteLine(Problem11.LargestGridProduct(20, 20, 4)); break;
             case 12: Console.WriteLine(Problem12.HighlyDivTriNum(500)); break;
             case 13: Console.WriteLine(Problem13.LargeSum(10)); break;
-            //case 4: Console.WriteLine(Problem4.LargestPalendromeProduct(99, 999)); break;
+            case 14: Console.WriteLine(Problem14.LongestCollatzSeq(1000000)); break;
             //case 5: Console.WriteLine(Problem5.SmallestMultiple(20)); break;
             //case 6: Console.WriteLine(Problem6.SumSquareDifference(100)); break;
             //case 7: Console.WriteLine(Problem7._PlacePrime(10001)); break;
